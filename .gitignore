@@ -1,0 +1,107 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+env/
+venv/
+ENV/
+.venv/
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*,cover
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb
+
+# PyCharm
+.idea/
+
+# VS Code
+.vscode/
+
+# Data and large artifacts (not required in repo)
+/Data/
+/Output/
+/Notebooks/
+/backend/models/
+Notebooks/
+Data/
+Output/
+
+# Model files
+*.h5
+*.keras
+*.ckpt
+*.pth
+*.pt
+
+# NumPy pkls and arrays
+*.npy
+*.npz
+*.npz?
+
+# Pickles
+*.pkl
+*.pickle
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Node / frontend
+/frontend/node_modules/
+/frontend/dist/
+/frontend/.vite/
+/frontend/.cache/
+package-lock.json
+npm-debug.log
+yarn-error.log
+
+# virtual envs
+.env
+.venv/
+venv/
+
+# Python compiled files
+*.pyc
+
+# other
+*.sqlite3
+
+# Ignore local personal files
+secret-*.json
+.env.local
+
+# End of .gitignore
