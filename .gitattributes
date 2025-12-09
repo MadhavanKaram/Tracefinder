@@ -1,0 +1,53 @@
+# Auto-detect text files and normalize line endings
+* text=auto
+
+# Ensure PowerShell files keep CRLF on Windows
+*.ps1 text eol=crlf
+
+# Shell scripts should use LF
+*.sh text eol=lf
+
+# Treat common binary/model/data formats as binary (no EOL conversion, no diffs)
+*.h5 binary
+*.keras binary
+*.ckpt binary
+*.pth binary
+*.pt binary
+*.npy binary
+*.npz binary
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.tiff binary
+*.tif binary
+*.gif binary
+*.zip binary
+*.tar.gz binary
+*.tar.bz2 binary
+*.rar binary
+
+# Jupyter notebooks: keep as text for diffing but avoid automatic merges
+*.ipynb text=auto
+
+# Node artifacts and build outputs - excluded from archives
+/frontend/node_modules/** export-ignore
+/frontend/dist/** export-ignore
+
+# Large data, notebooks and models - avoid bundling into source archives
+/Notebooks/** export-ignore
+/Data/** export-ignore
+/Output/** export-ignore
+/backend/models/** export-ignore
+
+# Mark large folders as vendored (reduce language stats on GitHub)
+/Notebooks/** linguist-vendored
+/Data/** linguist-vendored
+/Output/** linguist-vendored
+/backend/models/** linguist-vendored
+/frontend/node_modules/** linguist-vendored
+
+# Prevent exporting local virtual envs
+.venv/** export-ignore
+venv/** export-ignore
+
+# End of .gitattributes
