@@ -1,0 +1,3557 @@
+{
+  "Infosys_AI-Tracefinder": {
+    "path": "D:\\Infosys_AI-Tracefinder",
+    "subfolders": [
+      "Data",
+      "Notebooks",
+      "Output"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data",
+    "subfolders": [
+      "Flatfield",
+      "Official",
+      "Residuals",
+      "Residuals_raw",
+      "Residuals_vis",
+      "Wikipedia"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Flatfield": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Flatfield",
+    "subfolders": [
+      "Canon120-1",
+      "Canon120-2",
+      "Canon220",
+      "Canon9000-1",
+      "Canon9000-2",
+      "EpsonV370-1",
+      "EpsonV370-2",
+      "EpsonV39-1",
+      "EpsonV39-2",
+      "EpsonV550",
+      "HP"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Flatfield\\Canon120-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Flatfield\\Canon120-1",
+    "subfolders": [],
+    "total_files": 2,
+    "total_size_bytes": 32626554,
+    "by_type_count": {
+      "tiff": 2
+    },
+    "by_type_size_bytes": {
+      "tiff": 32626554
+    },
+    "sample_files": {
+      "tiff": [
+        "150.tif",
+        "300.tif"
+      ]
+    }
+  },
+  "Data\\Flatfield\\Canon120-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Flatfield\\Canon120-2",
+    "subfolders": [],
+    "total_files": 2,
+    "total_size_bytes": 52213898,
+    "by_type_count": {
+      "tiff": 2
+    },
+    "by_type_size_bytes": {
+      "tiff": 52213898
+    },
+    "sample_files": {
+      "tiff": [
+        "150.tif",
+        "300.tif"
+      ]
+    }
+  },
+  "Data\\Flatfield\\Canon220": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Flatfield\\Canon220",
+    "subfolders": [],
+    "total_files": 2,
+    "total_size_bytes": 32626554,
+    "by_type_count": {
+      "tiff": 2
+    },
+    "by_type_size_bytes": {
+      "tiff": 32626554
+    },
+    "sample_files": {
+      "tiff": [
+        "150.tif",
+        "300.tif"
+      ]
+    }
+  },
+  "Data\\Flatfield\\Canon9000-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Flatfield\\Canon9000-1",
+    "subfolders": [],
+    "total_files": 2,
+    "total_size_bytes": 32634010,
+    "by_type_count": {
+      "tiff": 2
+    },
+    "by_type_size_bytes": {
+      "tiff": 32634010
+    },
+    "sample_files": {
+      "tiff": [
+        "150.tif",
+        "300.tif"
+      ]
+    }
+  },
+  "Data\\Flatfield\\Canon9000-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Flatfield\\Canon9000-2",
+    "subfolders": [],
+    "total_files": 2,
+    "total_size_bytes": 32634010,
+    "by_type_count": {
+      "tiff": 2
+    },
+    "by_type_size_bytes": {
+      "tiff": 32634010
+    },
+    "sample_files": {
+      "tiff": [
+        "150.tif",
+        "300.tif"
+      ]
+    }
+  },
+  "Data\\Flatfield\\EpsonV370-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Flatfield\\EpsonV370-1",
+    "subfolders": [],
+    "total_files": 2,
+    "total_size_bytes": 32612966,
+    "by_type_count": {
+      "tiff": 2
+    },
+    "by_type_size_bytes": {
+      "tiff": 32612966
+    },
+    "sample_files": {
+      "tiff": [
+        "150.tif",
+        "300.tif"
+      ]
+    }
+  },
+  "Data\\Flatfield\\EpsonV370-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Flatfield\\EpsonV370-2",
+    "subfolders": [],
+    "total_files": 2,
+    "total_size_bytes": 32612966,
+    "by_type_count": {
+      "tiff": 2
+    },
+    "by_type_size_bytes": {
+      "tiff": 32612966
+    },
+    "sample_files": {
+      "tiff": [
+        "150.tif",
+        "300.tif"
+      ]
+    }
+  },
+  "Data\\Flatfield\\EpsonV39-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Flatfield\\EpsonV39-1",
+    "subfolders": [],
+    "total_files": 3,
+    "total_size_bytes": 32638110,
+    "by_type_count": {
+      "tiff": 3
+    },
+    "by_type_size_bytes": {
+      "tiff": 32638110
+    },
+    "sample_files": {
+      "tiff": [
+        "._150.tif",
+        "150.tif",
+        "300.tif"
+      ]
+    }
+  },
+  "Data\\Flatfield\\EpsonV39-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Flatfield\\EpsonV39-2",
+    "subfolders": [],
+    "total_files": 2,
+    "total_size_bytes": 32634014,
+    "by_type_count": {
+      "tiff": 2
+    },
+    "by_type_size_bytes": {
+      "tiff": 32634014
+    },
+    "sample_files": {
+      "tiff": [
+        "150.tif",
+        "300.tif"
+      ]
+    }
+  },
+  "Data\\Flatfield\\EpsonV550": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Flatfield\\EpsonV550",
+    "subfolders": [],
+    "total_files": 2,
+    "total_size_bytes": 32607704,
+    "by_type_count": {
+      "tiff": 2
+    },
+    "by_type_size_bytes": {
+      "tiff": 32607704
+    },
+    "sample_files": {
+      "tiff": [
+        "150.tif",
+        "300.tif"
+      ]
+    }
+  },
+  "Data\\Flatfield\\HP": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Flatfield\\HP",
+    "subfolders": [],
+    "total_files": 2,
+    "total_size_bytes": 32555862,
+    "by_type_count": {
+      "tiff": 2
+    },
+    "by_type_size_bytes": {
+      "tiff": 32555862
+    },
+    "sample_files": {
+      "tiff": [
+        "150.tif",
+        "300.tif"
+      ]
+    }
+  },
+  "Data\\Official": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official",
+    "subfolders": [
+      "Canon120-1",
+      "Canon120-2",
+      "Canon220",
+      "Canon9000-1",
+      "Canon9000-2",
+      "EpsonV370-1",
+      "EpsonV370-2",
+      "EpsonV39-1",
+      "EpsonV39-2",
+      "EpsonV550",
+      "HP"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Official\\Canon120-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\Canon120-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Official\\Canon120-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\Canon120-1\\150",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 651960500,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 651960500
+    },
+    "sample_files": {
+      "tiff": [
+        "s1_1.tif",
+        "s1_10.tif",
+        "s1_100.tif",
+        "s1_11.tif",
+        "s1_12.tif",
+        "s1_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\Canon120-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\Canon120-1\\300",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 2610694900,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 2610694900
+    },
+    "sample_files": {
+      "tiff": [
+        "s1_1.tif",
+        "s1_10.tif",
+        "s1_100.tif",
+        "s1_11.tif",
+        "s1_12.tif",
+        "s1_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\Canon120-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\Canon120-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Official\\Canon120-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\Canon120-2\\150",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 651960500,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 651960500
+    },
+    "sample_files": {
+      "tiff": [
+        "s2_1.tif",
+        "s2_10.tif",
+        "s2_100.tif",
+        "s2_11.tif",
+        "s2_12.tif",
+        "s2_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\Canon120-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\Canon120-2\\300",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 2610694900,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 2610694900
+    },
+    "sample_files": {
+      "tiff": [
+        "s2_1.tif",
+        "s2_10.tif",
+        "s2_100.tif",
+        "s2_11.tif",
+        "s2_12.tif",
+        "s2_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\Canon220": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\Canon220",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Official\\Canon220\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\Canon220\\150",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 651960500,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 651960500
+    },
+    "sample_files": {
+      "tiff": [
+        "s3_1.tif",
+        "s3_10.tif",
+        "s3_100.tif",
+        "s3_11.tif",
+        "s3_12.tif",
+        "s3_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\Canon220\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\Canon220\\300",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 2610694900,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 2610694900
+    },
+    "sample_files": {
+      "tiff": [
+        "s3_1.tif",
+        "s3_10.tif",
+        "s3_100.tif",
+        "s3_11.tif",
+        "s3_12.tif",
+        "s3_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\Canon9000-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\Canon9000-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Official\\Canon9000-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\Canon9000-1\\150",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 652705580,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 652705580
+    },
+    "sample_files": {
+      "tiff": [
+        "s4_1.tif",
+        "s4_10.tif",
+        "s4_100.tif",
+        "s4_11.tif",
+        "s4_12.tif",
+        "s4_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\Canon9000-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\Canon9000-1\\300",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 2610695180,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 2610695180
+    },
+    "sample_files": {
+      "tiff": [
+        "s4_1.tif",
+        "s4_10.tif",
+        "s4_100.tif",
+        "s4_11.tif",
+        "s4_12.tif",
+        "s4_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\Canon9000-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\Canon9000-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Official\\Canon9000-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\Canon9000-2\\150",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 652705700,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 652705700
+    },
+    "sample_files": {
+      "tiff": [
+        "s5_1.tif",
+        "s5_10.tif",
+        "s5_100.tif",
+        "s5_11.tif",
+        "s5_12.tif",
+        "s5_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\Canon9000-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\Canon9000-2\\300",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 2610695300,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 2610695300
+    },
+    "sample_files": {
+      "tiff": [
+        "s5_1.tif",
+        "s5_10.tif",
+        "s5_100.tif",
+        "s5_11.tif",
+        "s5_12.tif",
+        "s5_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\EpsonV370-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\EpsonV370-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Official\\EpsonV370-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\EpsonV370-1\\150",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 650601100,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 650601100
+    },
+    "sample_files": {
+      "tiff": [
+        "s6_1.tif",
+        "s6_10.tif",
+        "s6_100.tif",
+        "s6_11.tif",
+        "s6_12.tif",
+        "s6_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\EpsonV370-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\EpsonV370-1\\300",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 2610695500,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 2610695500
+    },
+    "sample_files": {
+      "tiff": [
+        "s6_1.tif",
+        "s6_10.tif",
+        "s6_100.tif",
+        "s6_11.tif",
+        "s6_12.tif",
+        "s6_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\EpsonV370-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\EpsonV370-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Official\\EpsonV370-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\EpsonV370-2\\150",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 650601100,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 650601100
+    },
+    "sample_files": {
+      "tiff": [
+        "s7_1.tif",
+        "s7_10.tif",
+        "s7_100.tif",
+        "s7_11.tif",
+        "s7_12.tif",
+        "s7_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\EpsonV370-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\EpsonV370-2\\300",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 2610695500,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 2610695500
+    },
+    "sample_files": {
+      "tiff": [
+        "s7_1.tif",
+        "s7_10.tif",
+        "s7_100.tif",
+        "s7_11.tif",
+        "s7_12.tif",
+        "s7_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\EpsonV39-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\EpsonV39-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Official\\EpsonV39-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\EpsonV39-1\\150",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 652705900,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 652705900
+    },
+    "sample_files": {
+      "tiff": [
+        "s8_1.tif",
+        "s8_10.tif",
+        "s8_100.tif",
+        "s8_11.tif",
+        "s8_12.tif",
+        "s8_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\EpsonV39-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\EpsonV39-1\\300",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 2610695500,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 2610695500
+    },
+    "sample_files": {
+      "tiff": [
+        "s8_1.tif",
+        "s8_10.tif",
+        "s8_100.tif",
+        "s8_11.tif",
+        "s8_12.tif",
+        "s8_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\EpsonV39-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\EpsonV39-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Official\\EpsonV39-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\EpsonV39-2\\150",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 652705900,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 652705900
+    },
+    "sample_files": {
+      "tiff": [
+        "s9_1.tif",
+        "s9_10.tif",
+        "s9_100.tif",
+        "s9_11.tif",
+        "s9_12.tif",
+        "s9_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\EpsonV39-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\EpsonV39-2\\300",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 2610695500,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 2610695500
+    },
+    "sample_files": {
+      "tiff": [
+        "s9_1.tif",
+        "s9_10.tif",
+        "s9_100.tif",
+        "s9_11.tif",
+        "s9_12.tif",
+        "s9_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\EpsonV550": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\EpsonV550",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Official\\EpsonV550\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\EpsonV550\\150",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 652179700,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 652179700
+    },
+    "sample_files": {
+      "tiff": [
+        "s10_1.tif",
+        "s10_10.tif",
+        "s10_100.tif",
+        "s10_11.tif",
+        "s10_12.tif",
+        "s10_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\EpsonV550\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\EpsonV550\\300",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 2608590700,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 2608590700
+    },
+    "sample_files": {
+      "tiff": [
+        "s10_1.tif",
+        "s10_10.tif",
+        "s10_100.tif",
+        "s10_11.tif",
+        "s10_12.tif",
+        "s10_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\HP": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\HP",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Official\\HP\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\HP\\150",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 646230460,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 646230460
+    },
+    "sample_files": {
+      "tiff": [
+        "s11_1.tif",
+        "s11_10.tif",
+        "s11_100.tif",
+        "s11_11.tif",
+        "s11_12.tif",
+        "s11_13.tif"
+      ]
+    }
+  },
+  "Data\\Official\\HP\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Official\\HP\\300",
+    "subfolders": [],
+    "total_files": 100,
+    "total_size_bytes": 2592420580,
+    "by_type_count": {
+      "tiff": 100
+    },
+    "by_type_size_bytes": {
+      "tiff": 2592420580
+    },
+    "sample_files": {
+      "tiff": [
+        "s11_1.tif",
+        "s11_10.tif",
+        "s11_100.tif",
+        "s11_11.tif",
+        "s11_12.tif",
+        "s11_13.tif"
+      ]
+    }
+  },
+  "Data\\Residuals": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals",
+    "subfolders": [
+      "Canon120-1",
+      "Canon120-2",
+      "Canon220",
+      "Canon9000-1",
+      "Canon9000-2",
+      "EpsonV370-1",
+      "EpsonV370-2",
+      "EpsonV39-1",
+      "EpsonV39-2",
+      "EpsonV550",
+      "HP"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals\\Canon120-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\Canon120-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals\\Canon120-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\Canon120-1\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 1023000,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 1023000
+    },
+    "sample_files": {
+      "image": [
+        "s1_100_res.png",
+        "s1_100_residual.png",
+        "s1_10_res.png",
+        "s1_10_residual.png",
+        "s1_11_res.png",
+        "s1_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\Canon120-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\Canon120-1\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 91827930,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 91827930
+    },
+    "sample_files": {
+      "image": [
+        "s1_100_res.png",
+        "s1_100_residual.png",
+        "s1_10_res.png",
+        "s1_10_residual.png",
+        "s1_11_res.png",
+        "s1_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\Canon120-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\Canon120-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals\\Canon120-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\Canon120-2\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 1023000,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 1023000
+    },
+    "sample_files": {
+      "image": [
+        "s2_100_res.png",
+        "s2_100_residual.png",
+        "s2_10_res.png",
+        "s2_10_residual.png",
+        "s2_11_res.png",
+        "s2_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\Canon120-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\Canon120-2\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 30735608,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 30735608
+    },
+    "sample_files": {
+      "image": [
+        "s2_100_res.png",
+        "s2_100_residual.png",
+        "s2_10_res.png",
+        "s2_10_residual.png",
+        "s2_11_res.png",
+        "s2_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\Canon220": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\Canon220",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals\\Canon220\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\Canon220\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 9961740,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 9961740
+    },
+    "sample_files": {
+      "image": [
+        "s3_100_res.png",
+        "s3_100_residual.png",
+        "s3_10_res.png",
+        "s3_10_residual.png",
+        "s3_11_res.png",
+        "s3_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\Canon220\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\Canon220\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 216979926,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 216979926
+    },
+    "sample_files": {
+      "image": [
+        "s3_100_res.png",
+        "s3_100_residual.png",
+        "s3_10_res.png",
+        "s3_10_residual.png",
+        "s3_11_res.png",
+        "s3_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\Canon9000-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\Canon9000-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals\\Canon9000-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\Canon9000-1\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 1024200,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 1024200
+    },
+    "sample_files": {
+      "image": [
+        "s4_100_res.png",
+        "s4_100_residual.png",
+        "s4_10_res.png",
+        "s4_10_residual.png",
+        "s4_11_res.png",
+        "s4_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\Canon9000-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\Canon9000-1\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 2918200,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 2918200
+    },
+    "sample_files": {
+      "image": [
+        "s4_100_res.png",
+        "s4_100_residual.png",
+        "s4_10_res.png",
+        "s4_10_residual.png",
+        "s4_11_res.png",
+        "s4_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\Canon9000-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\Canon9000-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals\\Canon9000-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\Canon9000-2\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 1024200,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 1024200
+    },
+    "sample_files": {
+      "image": [
+        "s5_100_res.png",
+        "s5_100_residual.png",
+        "s5_10_res.png",
+        "s5_10_residual.png",
+        "s5_11_res.png",
+        "s5_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\Canon9000-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\Canon9000-2\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 2918200,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 2918200
+    },
+    "sample_files": {
+      "image": [
+        "s5_100_res.png",
+        "s5_100_residual.png",
+        "s5_10_res.png",
+        "s5_10_residual.png",
+        "s5_11_res.png",
+        "s5_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\EpsonV370-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\EpsonV370-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals\\EpsonV370-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\EpsonV370-1\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 240317924,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 240317924
+    },
+    "sample_files": {
+      "image": [
+        "s6_100_res.png",
+        "s6_100_residual.png",
+        "s6_10_res.png",
+        "s6_10_residual.png",
+        "s6_11_res.png",
+        "s6_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\EpsonV370-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\EpsonV370-1\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 1042336718,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 1042336718
+    },
+    "sample_files": {
+      "image": [
+        "s6_100_res.png",
+        "s6_100_residual.png",
+        "s6_10_res.png",
+        "s6_10_residual.png",
+        "s6_11_res.png",
+        "s6_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\EpsonV370-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\EpsonV370-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals\\EpsonV370-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\EpsonV370-2\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 228233734,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 228233734
+    },
+    "sample_files": {
+      "image": [
+        "s7_100_res.png",
+        "s7_100_residual.png",
+        "s7_10_res.png",
+        "s7_10_residual.png",
+        "s7_11_res.png",
+        "s7_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\EpsonV370-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\EpsonV370-2\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 1033565830,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 1033565830
+    },
+    "sample_files": {
+      "image": [
+        "s7_100_res.png",
+        "s7_100_residual.png",
+        "s7_10_res.png",
+        "s7_10_residual.png",
+        "s7_11_res.png",
+        "s7_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\EpsonV39-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\EpsonV39-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals\\EpsonV39-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\EpsonV39-1\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 5442854,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 5442854
+    },
+    "sample_files": {
+      "image": [
+        "s8_100_res.png",
+        "s8_100_residual.png",
+        "s8_10_res.png",
+        "s8_10_residual.png",
+        "s8_11_res.png",
+        "s8_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\EpsonV39-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\EpsonV39-1\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 114263260,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 114263260
+    },
+    "sample_files": {
+      "image": [
+        "s8_100_res.png",
+        "s8_100_residual.png",
+        "s8_10_res.png",
+        "s8_10_residual.png",
+        "s8_11_res.png",
+        "s8_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\EpsonV39-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\EpsonV39-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals\\EpsonV39-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\EpsonV39-2\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 5627140,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 5627140
+    },
+    "sample_files": {
+      "image": [
+        "s9_100_res.png",
+        "s9_100_residual.png",
+        "s9_10_res.png",
+        "s9_10_residual.png",
+        "s9_11_res.png",
+        "s9_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\EpsonV39-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\EpsonV39-2\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 173205062,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 173205062
+    },
+    "sample_files": {
+      "image": [
+        "s9_100_res.png",
+        "s9_100_residual.png",
+        "s9_10_res.png",
+        "s9_10_residual.png",
+        "s9_11_res.png",
+        "s9_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\EpsonV550": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\EpsonV550",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals\\EpsonV550\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\EpsonV550\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 217957276,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 217957276
+    },
+    "sample_files": {
+      "image": [
+        "s10_100_res.png",
+        "s10_100_residual.png",
+        "s10_10_res.png",
+        "s10_10_residual.png",
+        "s10_11_res.png",
+        "s10_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\EpsonV550\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\EpsonV550\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 996636276,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 996636276
+    },
+    "sample_files": {
+      "image": [
+        "s10_100_res.png",
+        "s10_100_residual.png",
+        "s10_10_res.png",
+        "s10_10_residual.png",
+        "s10_11_res.png",
+        "s10_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\HP": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\HP",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals\\HP\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\HP\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 290684808,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 290684808
+    },
+    "sample_files": {
+      "image": [
+        "s11_100_res.png",
+        "s11_100_residual.png",
+        "s11_10_res.png",
+        "s11_10_residual.png",
+        "s11_11_res.png",
+        "s11_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals\\HP\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals\\HP\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 1181732696,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 1181732696
+    },
+    "sample_files": {
+      "image": [
+        "s11_100_res.png",
+        "s11_100_residual.png",
+        "s11_10_res.png",
+        "s11_10_residual.png",
+        "s11_11_res.png",
+        "s11_11_residual.png"
+      ]
+    }
+  },
+  "Data\\Residuals_raw": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw",
+    "subfolders": [
+      "Canon120-1",
+      "Canon120-2",
+      "Canon220",
+      "Canon9000-1",
+      "Canon9000-2",
+      "EpsonV370-1",
+      "EpsonV370-2",
+      "EpsonV39-1",
+      "EpsonV39-2",
+      "EpsonV550",
+      "HP"
+    ],
+    "total_files": 1,
+    "total_size_bytes": 202541106,
+    "by_type_count": {
+      "model": 1
+    },
+    "by_type_size_bytes": {
+      "model": 202541106
+    },
+    "sample_files": {
+      "model": [
+        "cnn_residual_model.keras"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\Canon120-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\Canon120-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_raw\\Canon120-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\Canon120-1\\150",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 77598879,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 77598879
+    },
+    "sample_files": {
+      "npy": [
+        "Canon120-1_150_fingerprint.npy",
+        "Canon120-1_150_residuals_stack.npy",
+        "s1_100_res_raw.npy",
+        "s1_100_res_raw.npz",
+        "s1_10_res_raw.npy",
+        "s1_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\Canon120-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\Canon120-1\\300",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 277093729,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 277093729
+    },
+    "sample_files": {
+      "npy": [
+        "Canon120-1_300_fingerprint.npy",
+        "Canon120-1_300_residuals_stack.npy",
+        "s1_100_res_raw.npy",
+        "s1_100_res_raw.npz",
+        "s1_10_res_raw.npy",
+        "s1_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\Canon120-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\Canon120-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_raw\\Canon120-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\Canon120-2\\150",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 74939152,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 74939152
+    },
+    "sample_files": {
+      "npy": [
+        "Canon120-2_150_fingerprint.npy",
+        "Canon120-2_150_residuals_stack.npy",
+        "s2_100_res_raw.npy",
+        "s2_100_res_raw.npz",
+        "s2_10_res_raw.npy",
+        "s2_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\Canon120-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\Canon120-2\\300",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 240663430,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 240663430
+    },
+    "sample_files": {
+      "npy": [
+        "Canon120-2_300_fingerprint.npy",
+        "Canon120-2_300_residuals_stack.npy",
+        "s2_100_res_raw.npy",
+        "s2_100_res_raw.npz",
+        "s2_10_res_raw.npy",
+        "s2_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\Canon220": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\Canon220",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_raw\\Canon220\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\Canon220\\150",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 95366152,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 95366152
+    },
+    "sample_files": {
+      "npy": [
+        "Canon220_150_fingerprint.npy",
+        "Canon220_150_residuals_stack.npy",
+        "s3_100_res_raw.npy",
+        "s3_100_res_raw.npz",
+        "s3_10_res_raw.npy",
+        "s3_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\Canon220\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\Canon220\\300",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 324238996,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 324238996
+    },
+    "sample_files": {
+      "npy": [
+        "Canon220_300_fingerprint.npy",
+        "Canon220_300_residuals_stack.npy",
+        "s3_100_res_raw.npy",
+        "s3_100_res_raw.npz",
+        "s3_10_res_raw.npy",
+        "s3_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\Canon9000-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\Canon9000-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_raw\\Canon9000-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\Canon9000-1\\150",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 76304470,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 76304470
+    },
+    "sample_files": {
+      "npy": [
+        "Canon9000-1_150_fingerprint.npy",
+        "Canon9000-1_150_residuals_stack.npy",
+        "s4_100_res_raw.npy",
+        "s4_100_res_raw.npz",
+        "s4_10_res_raw.npy",
+        "s4_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\Canon9000-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\Canon9000-1\\300",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 180953133,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 180953133
+    },
+    "sample_files": {
+      "npy": [
+        "Canon9000-1_300_fingerprint.npy",
+        "Canon9000-1_300_residuals_stack.npy",
+        "s4_100_res_raw.npy",
+        "s4_100_res_raw.npz",
+        "s4_10_res_raw.npy",
+        "s4_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\Canon9000-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\Canon9000-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_raw\\Canon9000-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\Canon9000-2\\150",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 76494013,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 76494013
+    },
+    "sample_files": {
+      "npy": [
+        "Canon9000-2_150_fingerprint.npy",
+        "Canon9000-2_150_residuals_stack.npy",
+        "s5_100_res_raw.npy",
+        "s5_100_res_raw.npz",
+        "s5_10_res_raw.npy",
+        "s5_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\Canon9000-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\Canon9000-2\\300",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 174203728,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 174203728
+    },
+    "sample_files": {
+      "npy": [
+        "Canon9000-2_300_fingerprint.npy",
+        "Canon9000-2_300_residuals_stack.npy",
+        "s5_100_res_raw.npy",
+        "s5_100_res_raw.npz",
+        "s5_10_res_raw.npy",
+        "s5_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\EpsonV370-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\EpsonV370-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_raw\\EpsonV370-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\EpsonV370-1\\150",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 215658309,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 215658309
+    },
+    "sample_files": {
+      "npy": [
+        "EpsonV370-1_150_fingerprint.npy",
+        "EpsonV370-1_150_residuals_stack.npy",
+        "s6_100_res_raw.npy",
+        "s6_100_res_raw.npz",
+        "s6_10_res_raw.npy",
+        "s6_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\EpsonV370-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\EpsonV370-1\\300",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 891975753,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 891975753
+    },
+    "sample_files": {
+      "npy": [
+        "EpsonV370-1_300_fingerprint.npy",
+        "EpsonV370-1_300_residuals_stack.npy",
+        "s6_100_res_raw.npy",
+        "s6_100_res_raw.npz",
+        "s6_10_res_raw.npy",
+        "s6_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\EpsonV370-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\EpsonV370-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_raw\\EpsonV370-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\EpsonV370-2\\150",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 203828460,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 203828460
+    },
+    "sample_files": {
+      "npy": [
+        "EpsonV370-2_150_fingerprint.npy",
+        "EpsonV370-2_150_residuals_stack.npy",
+        "s7_100_res_raw.npy",
+        "s7_100_res_raw.npz",
+        "s7_10_res_raw.npy",
+        "s7_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\EpsonV370-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\EpsonV370-2\\300",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 878311817,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 878311817
+    },
+    "sample_files": {
+      "npy": [
+        "EpsonV370-2_300_fingerprint.npy",
+        "EpsonV370-2_300_residuals_stack.npy",
+        "s7_100_res_raw.npy",
+        "s7_100_res_raw.npz",
+        "s7_10_res_raw.npy",
+        "s7_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\EpsonV39-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\EpsonV39-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_raw\\EpsonV39-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\EpsonV39-1\\150",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 90344436,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 90344436
+    },
+    "sample_files": {
+      "npy": [
+        "EpsonV39-1_150_fingerprint.npy",
+        "EpsonV39-1_150_residuals_stack.npy",
+        "s8_100_res_raw.npy",
+        "s8_100_res_raw.npz",
+        "s8_10_res_raw.npy",
+        "s8_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\EpsonV39-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\EpsonV39-1\\300",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 283480983,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 283480983
+    },
+    "sample_files": {
+      "npy": [
+        "EpsonV39-1_300_fingerprint.npy",
+        "EpsonV39-1_300_residuals_stack.npy",
+        "s8_100_res_raw.npy",
+        "s8_100_res_raw.npz",
+        "s8_10_res_raw.npy",
+        "s8_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\EpsonV39-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\EpsonV39-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_raw\\EpsonV39-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\EpsonV39-2\\150",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 94964468,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 94964468
+    },
+    "sample_files": {
+      "npy": [
+        "EpsonV39-2_150_fingerprint.npy",
+        "EpsonV39-2_150_residuals_stack.npy",
+        "s9_100_res_raw.npy",
+        "s9_100_res_raw.npz",
+        "s9_10_res_raw.npy",
+        "s9_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\EpsonV39-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\EpsonV39-2\\300",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 304605457,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 304605457
+    },
+    "sample_files": {
+      "npy": [
+        "EpsonV39-2_300_fingerprint.npy",
+        "EpsonV39-2_300_residuals_stack.npy",
+        "s9_100_res_raw.npy",
+        "s9_100_res_raw.npz",
+        "s9_10_res_raw.npy",
+        "s9_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\EpsonV550": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\EpsonV550",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_raw\\EpsonV550\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\EpsonV550\\150",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 197947827,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 197947827
+    },
+    "sample_files": {
+      "npy": [
+        "EpsonV550_150_fingerprint.npy",
+        "EpsonV550_150_residuals_stack.npy",
+        "s10_100_res_raw.npy",
+        "s10_100_res_raw.npz",
+        "s10_10_res_raw.npy",
+        "s10_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\EpsonV550\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\EpsonV550\\300",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 759717911,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 759717911
+    },
+    "sample_files": {
+      "npy": [
+        "EpsonV550_300_fingerprint.npy",
+        "EpsonV550_300_residuals_stack.npy",
+        "s10_100_res_raw.npy",
+        "s10_100_res_raw.npz",
+        "s10_10_res_raw.npy",
+        "s10_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\HP": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\HP",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_raw\\HP\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\HP\\150",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 316063907,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 316063907
+    },
+    "sample_files": {
+      "npy": [
+        "HP_150_fingerprint.npy",
+        "HP_150_residuals_stack.npy",
+        "s11_100_res_raw.npy",
+        "s11_100_res_raw.npz",
+        "s11_10_res_raw.npy",
+        "s11_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_raw\\HP\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_raw\\HP\\300",
+    "subfolders": [],
+    "total_files": 202,
+    "total_size_bytes": 1150004091,
+    "by_type_count": {
+      "npy": 202
+    },
+    "by_type_size_bytes": {
+      "npy": 1150004091
+    },
+    "sample_files": {
+      "npy": [
+        "HP_300_fingerprint.npy",
+        "HP_300_residuals_stack.npy",
+        "s11_100_res_raw.npy",
+        "s11_100_res_raw.npz",
+        "s11_10_res_raw.npy",
+        "s11_10_res_raw.npz"
+      ]
+    }
+  },
+  "Data\\Residuals_vis": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis",
+    "subfolders": [
+      "Canon120-1",
+      "Canon120-2",
+      "Canon220",
+      "Canon9000-1",
+      "Canon9000-2",
+      "EpsonV370-1",
+      "EpsonV370-2",
+      "EpsonV39-1",
+      "EpsonV39-2",
+      "EpsonV550",
+      "HP"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_vis\\Canon120-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\Canon120-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_vis\\Canon120-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\Canon120-1\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 9978389,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 9978389
+    },
+    "sample_files": {
+      "image": [
+        "s1_100_res_signed.png",
+        "s1_100_res_vis.png",
+        "s1_10_res_signed.png",
+        "s1_10_res_vis.png",
+        "s1_11_res_signed.png",
+        "s1_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\Canon120-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\Canon120-1\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 10082295,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 10082295
+    },
+    "sample_files": {
+      "image": [
+        "s1_100_res_signed.png",
+        "s1_100_res_vis.png",
+        "s1_10_res_signed.png",
+        "s1_10_res_vis.png",
+        "s1_11_res_signed.png",
+        "s1_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\Canon120-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\Canon120-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_vis\\Canon120-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\Canon120-2\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 9929912,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 9929912
+    },
+    "sample_files": {
+      "image": [
+        "s2_100_res_signed.png",
+        "s2_100_res_vis.png",
+        "s2_10_res_signed.png",
+        "s2_10_res_vis.png",
+        "s2_11_res_signed.png",
+        "s2_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\Canon120-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\Canon120-2\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 10075901,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 10075901
+    },
+    "sample_files": {
+      "image": [
+        "s2_100_res_signed.png",
+        "s2_100_res_vis.png",
+        "s2_10_res_signed.png",
+        "s2_10_res_vis.png",
+        "s2_11_res_signed.png",
+        "s2_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\Canon220": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\Canon220",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_vis\\Canon220\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\Canon220\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 10052670,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 10052670
+    },
+    "sample_files": {
+      "image": [
+        "s3_100_res_signed.png",
+        "s3_100_res_vis.png",
+        "s3_10_res_signed.png",
+        "s3_10_res_vis.png",
+        "s3_11_res_signed.png",
+        "s3_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\Canon220\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\Canon220\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 10072572,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 10072572
+    },
+    "sample_files": {
+      "image": [
+        "s3_100_res_signed.png",
+        "s3_100_res_vis.png",
+        "s3_10_res_signed.png",
+        "s3_10_res_vis.png",
+        "s3_11_res_signed.png",
+        "s3_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\Canon9000-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\Canon9000-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_vis\\Canon9000-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\Canon9000-1\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 9847887,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 9847887
+    },
+    "sample_files": {
+      "image": [
+        "s4_100_res_signed.png",
+        "s4_100_res_vis.png",
+        "s4_10_res_signed.png",
+        "s4_10_res_vis.png",
+        "s4_11_res_signed.png",
+        "s4_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\Canon9000-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\Canon9000-1\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 9946152,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 9946152
+    },
+    "sample_files": {
+      "image": [
+        "s4_100_res_signed.png",
+        "s4_100_res_vis.png",
+        "s4_10_res_signed.png",
+        "s4_10_res_vis.png",
+        "s4_11_res_signed.png",
+        "s4_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\Canon9000-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\Canon9000-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_vis\\Canon9000-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\Canon9000-2\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 9843250,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 9843250
+    },
+    "sample_files": {
+      "image": [
+        "s5_100_res_signed.png",
+        "s5_100_res_vis.png",
+        "s5_10_res_signed.png",
+        "s5_10_res_vis.png",
+        "s5_11_res_signed.png",
+        "s5_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\Canon9000-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\Canon9000-2\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 9948183,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 9948183
+    },
+    "sample_files": {
+      "image": [
+        "s5_100_res_signed.png",
+        "s5_100_res_vis.png",
+        "s5_10_res_signed.png",
+        "s5_10_res_vis.png",
+        "s5_11_res_signed.png",
+        "s5_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\EpsonV370-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\EpsonV370-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_vis\\EpsonV370-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\EpsonV370-1\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 9957362,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 9957362
+    },
+    "sample_files": {
+      "image": [
+        "s6_100_res_signed.png",
+        "s6_100_res_vis.png",
+        "s6_10_res_signed.png",
+        "s6_10_res_vis.png",
+        "s6_11_res_signed.png",
+        "s6_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\EpsonV370-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\EpsonV370-1\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 9976702,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 9976702
+    },
+    "sample_files": {
+      "image": [
+        "s6_100_res_signed.png",
+        "s6_100_res_vis.png",
+        "s6_10_res_signed.png",
+        "s6_10_res_vis.png",
+        "s6_11_res_signed.png",
+        "s6_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\EpsonV370-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\EpsonV370-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_vis\\EpsonV370-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\EpsonV370-2\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 9971667,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 9971667
+    },
+    "sample_files": {
+      "image": [
+        "s7_100_res_signed.png",
+        "s7_100_res_vis.png",
+        "s7_10_res_signed.png",
+        "s7_10_res_vis.png",
+        "s7_11_res_signed.png",
+        "s7_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\EpsonV370-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\EpsonV370-2\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 9957584,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 9957584
+    },
+    "sample_files": {
+      "image": [
+        "s7_100_res_signed.png",
+        "s7_100_res_vis.png",
+        "s7_10_res_signed.png",
+        "s7_10_res_vis.png",
+        "s7_11_res_signed.png",
+        "s7_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\EpsonV39-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\EpsonV39-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_vis\\EpsonV39-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\EpsonV39-1\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 9952264,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 9952264
+    },
+    "sample_files": {
+      "image": [
+        "s8_100_res_signed.png",
+        "s8_100_res_vis.png",
+        "s8_10_res_signed.png",
+        "s8_10_res_vis.png",
+        "s8_11_res_signed.png",
+        "s8_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\EpsonV39-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\EpsonV39-1\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 10047756,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 10047756
+    },
+    "sample_files": {
+      "image": [
+        "s8_100_res_signed.png",
+        "s8_100_res_vis.png",
+        "s8_10_res_signed.png",
+        "s8_10_res_vis.png",
+        "s8_11_res_signed.png",
+        "s8_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\EpsonV39-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\EpsonV39-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_vis\\EpsonV39-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\EpsonV39-2\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 9965573,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 9965573
+    },
+    "sample_files": {
+      "image": [
+        "s9_100_res_signed.png",
+        "s9_100_res_vis.png",
+        "s9_10_res_signed.png",
+        "s9_10_res_vis.png",
+        "s9_11_res_signed.png",
+        "s9_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\EpsonV39-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\EpsonV39-2\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 10045373,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 10045373
+    },
+    "sample_files": {
+      "image": [
+        "s9_100_res_signed.png",
+        "s9_100_res_vis.png",
+        "s9_10_res_signed.png",
+        "s9_10_res_vis.png",
+        "s9_11_res_signed.png",
+        "s9_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\EpsonV550": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\EpsonV550",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_vis\\EpsonV550\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\EpsonV550\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 9986587,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 9986587
+    },
+    "sample_files": {
+      "image": [
+        "s10_100_res_signed.png",
+        "s10_100_res_vis.png",
+        "s10_10_res_signed.png",
+        "s10_10_res_vis.png",
+        "s10_11_res_signed.png",
+        "s10_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\EpsonV550\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\EpsonV550\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 9994012,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 9994012
+    },
+    "sample_files": {
+      "image": [
+        "s10_100_res_signed.png",
+        "s10_100_res_vis.png",
+        "s10_10_res_signed.png",
+        "s10_10_res_vis.png",
+        "s10_11_res_signed.png",
+        "s10_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\HP": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\HP",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Residuals_vis\\HP\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\HP\\150",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 10008115,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 10008115
+    },
+    "sample_files": {
+      "image": [
+        "s11_100_res_signed.png",
+        "s11_100_res_vis.png",
+        "s11_10_res_signed.png",
+        "s11_10_res_vis.png",
+        "s11_11_res_signed.png",
+        "s11_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Residuals_vis\\HP\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Residuals_vis\\HP\\300",
+    "subfolders": [],
+    "total_files": 200,
+    "total_size_bytes": 10011605,
+    "by_type_count": {
+      "image": 200
+    },
+    "by_type_size_bytes": {
+      "image": 10011605
+    },
+    "sample_files": {
+      "image": [
+        "s11_100_res_signed.png",
+        "s11_100_res_vis.png",
+        "s11_10_res_signed.png",
+        "s11_10_res_vis.png",
+        "s11_11_res_signed.png",
+        "s11_11_res_vis.png"
+      ]
+    }
+  },
+  "Data\\Wikipedia": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia",
+    "subfolders": [
+      "Canon120-1",
+      "Canon120-2",
+      "Canon220",
+      "Canon9000-1",
+      "Canon9000-2",
+      "EpsonV370-1",
+      "EpsonV370-2",
+      "EpsonV39-1",
+      "EpsonV39-2",
+      "EpsonV550",
+      "HP"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Wikipedia\\Canon120-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\Canon120-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Wikipedia\\Canon120-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\Canon120-1\\150",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 704117340,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 704117340
+    },
+    "sample_files": {
+      "tiff": [
+        "s1_1.tif",
+        "s1_10.tif",
+        "s1_100.tif",
+        "s1_101.tif",
+        "s1_102.tif",
+        "s1_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\Canon120-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\Canon120-1\\300",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 2819550492,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 2819550492
+    },
+    "sample_files": {
+      "tiff": [
+        "s1_1.tif",
+        "s1_10.tif",
+        "s1_100.tif",
+        "s1_101.tif",
+        "s1_102.tif",
+        "s1_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\Canon120-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\Canon120-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Wikipedia\\Canon120-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\Canon120-2\\150",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 704117340,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 704117340
+    },
+    "sample_files": {
+      "tiff": [
+        "s2_1.tif",
+        "s2_10.tif",
+        "s2_100.tif",
+        "s2_101.tif",
+        "s2_102.tif",
+        "s2_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\Canon120-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\Canon120-2\\300",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 2819550492,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 2819550492
+    },
+    "sample_files": {
+      "tiff": [
+        "s2_1.tif",
+        "s2_10.tif",
+        "s2_100.tif",
+        "s2_101.tif",
+        "s2_102.tif",
+        "s2_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\Canon220": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\Canon220",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Wikipedia\\Canon220\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\Canon220\\150",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 704117340,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 704117340
+    },
+    "sample_files": {
+      "tiff": [
+        "s3_1.tif",
+        "s3_10.tif",
+        "s3_100.tif",
+        "s3_101.tif",
+        "s3_102.tif",
+        "s3_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\Canon220\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\Canon220\\300",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 2819550492,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 2819550492
+    },
+    "sample_files": {
+      "tiff": [
+        "s3_1.tif",
+        "s3_10.tif",
+        "s3_100.tif",
+        "s3_101.tif",
+        "s3_102.tif",
+        "s3_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\Canon9000-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\Canon9000-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Wikipedia\\Canon9000-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\Canon9000-1\\150",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 704922156,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 704922156
+    },
+    "sample_files": {
+      "tiff": [
+        "s4_1.tif",
+        "s4_10.tif",
+        "s4_100.tif",
+        "s4_101.tif",
+        "s4_102.tif",
+        "s4_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\Canon9000-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\Canon9000-1\\300",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 2799971028,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 2799971028
+    },
+    "sample_files": {
+      "tiff": [
+        "s4_1.tif",
+        "s4_10.tif",
+        "s4_100.tif",
+        "s4_101.tif",
+        "s4_102.tif",
+        "s4_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\Canon9000-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\Canon9000-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Wikipedia\\Canon9000-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\Canon9000-2\\150",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 704922156,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 704922156
+    },
+    "sample_files": {
+      "tiff": [
+        "s5_1.tif",
+        "s5_10.tif",
+        "s5_100.tif",
+        "s5_101.tif",
+        "s5_102.tif",
+        "s5_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\Canon9000-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\Canon9000-2\\300",
+    "subfolders": [],
+    "total_files": 99,
+    "total_size_bytes": 2584588347,
+    "by_type_count": {
+      "tiff": 99
+    },
+    "by_type_size_bytes": {
+      "tiff": 2584588347
+    },
+    "sample_files": {
+      "tiff": [
+        "s5_1.tif",
+        "s5_10.tif",
+        "s5_100.tif",
+        "s5_101.tif",
+        "s5_102.tif",
+        "s5_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\EpsonV370-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\EpsonV370-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Wikipedia\\EpsonV370-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\EpsonV370-1\\150",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 702649188,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 702649188
+    },
+    "sample_files": {
+      "tiff": [
+        "s6_1.tif",
+        "s6_10.tif",
+        "s6_100.tif",
+        "s6_101.tif",
+        "s6_102.tif",
+        "s6_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\EpsonV370-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\EpsonV370-1\\300",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 2819551140,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 2819551140
+    },
+    "sample_files": {
+      "tiff": [
+        "s6_1.tif",
+        "s6_10.tif",
+        "s6_100.tif",
+        "s6_101.tif",
+        "s6_102.tif",
+        "s6_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\EpsonV370-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\EpsonV370-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Wikipedia\\EpsonV370-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\EpsonV370-2\\150",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 702649188,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 702649188
+    },
+    "sample_files": {
+      "tiff": [
+        "s7_1.tif",
+        "s7_10.tif",
+        "s7_100.tif",
+        "s7_101.tif",
+        "s7_102.tif",
+        "s7_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\EpsonV370-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\EpsonV370-2\\300",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 2799950196,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 2799950196
+    },
+    "sample_files": {
+      "tiff": [
+        "s7_1.tif",
+        "s7_10.tif",
+        "s7_100.tif",
+        "s7_101.tif",
+        "s7_102.tif",
+        "s7_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\EpsonV39-1": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\EpsonV39-1",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Wikipedia\\EpsonV39-1\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\EpsonV39-1\\150",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 704922372,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 704922372
+    },
+    "sample_files": {
+      "tiff": [
+        "s8_1.tif",
+        "s8_10.tif",
+        "s8_100.tif",
+        "s8_101.tif",
+        "s8_102.tif",
+        "s8_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\EpsonV39-1\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\EpsonV39-1\\300",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 2819551140,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 2819551140
+    },
+    "sample_files": {
+      "tiff": [
+        "s8_1.tif",
+        "s8_10.tif",
+        "s8_100.tif",
+        "s8_101.tif",
+        "s8_102.tif",
+        "s8_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\EpsonV39-2": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\EpsonV39-2",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Wikipedia\\EpsonV39-2\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\EpsonV39-2\\150",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 704922372,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 704922372
+    },
+    "sample_files": {
+      "tiff": [
+        "s9_1.tif",
+        "s9_10.tif",
+        "s9_100.tif",
+        "s9_101.tif",
+        "s9_102.tif",
+        "s9_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\EpsonV39-2\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\EpsonV39-2\\300",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 2819551140,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 2819551140
+    },
+    "sample_files": {
+      "tiff": [
+        "s9_1.tif",
+        "s9_10.tif",
+        "s9_100.tif",
+        "s9_101.tif",
+        "s9_102.tif",
+        "s9_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\EpsonV550": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\EpsonV550",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Wikipedia\\EpsonV550\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\EpsonV550\\150",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 700712751,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 700712751
+    },
+    "sample_files": {
+      "tiff": [
+        "s10_1.tif",
+        "s10_10.tif",
+        "s10_100.tif",
+        "s10_101.tif",
+        "s10_102.tif",
+        "s10_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\EpsonV550\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\EpsonV550\\300",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 2803525881,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 2803525881
+    },
+    "sample_files": {
+      "tiff": [
+        "s10_1.tif",
+        "s10_10.tif",
+        "s10_100.tif",
+        "s10_101.tif",
+        "s10_102.tif",
+        "s10_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\HP": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\HP",
+    "subfolders": [
+      "150",
+      "300"
+    ],
+    "total_files": 0,
+    "total_size_bytes": 0,
+    "by_type_count": {},
+    "by_type_size_bytes": {},
+    "sample_files": {}
+  },
+  "Data\\Wikipedia\\HP\\150": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\HP\\150",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 698595700,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 698595700
+    },
+    "sample_files": {
+      "tiff": [
+        "s11_1.tif",
+        "s11_10.tif",
+        "s11_100.tif",
+        "s11_101.tif",
+        "s11_102.tif",
+        "s11_103.tif"
+      ]
+    }
+  },
+  "Data\\Wikipedia\\HP\\300": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Data\\Wikipedia\\HP\\300",
+    "subfolders": [],
+    "total_files": 108,
+    "total_size_bytes": 2800109644,
+    "by_type_count": {
+      "tiff": 108
+    },
+    "by_type_size_bytes": {
+      "tiff": 2800109644
+    },
+    "sample_files": {
+      "tiff": [
+        "s11_1.tif",
+        "s11_10.tif",
+        "s11_100.tif",
+        "s11_101.tif",
+        "s11_102.tif",
+        "s11_103.tif"
+      ]
+    }
+  },
+  "Notebooks": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Notebooks",
+    "subfolders": [],
+    "total_files": 29,
+    "total_size_bytes": 1201965550,
+    "by_type_count": {
+      "notebook": 8,
+      "npy": 6,
+      "model": 7,
+      "code": 1,
+      "pickle": 7
+    },
+    "by_type_size_bytes": {
+      "notebook": 2415950,
+      "npy": 597257252,
+      "model": 16256596,
+      "code": 5892,
+      "pickle": 586029860
+    },
+    "sample_files": {
+      "notebook": [
+        "Allfiles.ipynb",
+        "CNN_model_training.ipynb",
+        "Image.ipynb",
+        "ModelTraining.ipynb",
+        "demo.ipynb",
+        "denoising.ipynb"
+      ],
+      "npy": [
+        "X_all.npy",
+        "X_feat.npy",
+        "X_img.npy",
+        "fp_keys.npy",
+        "y.npy",
+        "y_all.npy"
+      ],
+      "model": [
+        "best_model.h5",
+        "best_model.keras",
+        "best_perimage_model.h5",
+        "best_small_model.h5",
+        "cnn_residual_best.keras",
+        "scanner_hybrid_best.keras"
+      ],
+      "code": [
+        "demo.py"
+      ],
+      "pickle": [
+        "flatfield_residuals.pkl",
+        "hybrid_feat_scaler.pkl",
+        "hybrid_label_encoder.pkl",
+        "hybrid_training_history.pkl",
+        "official_features.pkl",
+        "official_residuals.pkl"
+      ]
+    }
+  },
+  "Output": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Output",
+    "subfolders": [
+      "Output_CNN"
+    ],
+    "total_files": 8,
+    "total_size_bytes": 2148440,
+    "by_type_count": {
+      "csv": 4,
+      "pickle": 3,
+      "image": 1
+    },
+    "by_type_size_bytes": {
+      "csv": 956387,
+      "pickle": 3871,
+      "image": 1188182
+    },
+    "sample_files": {
+      "csv": [
+        "Output.csv",
+        "Output_for_Allfiles.csv",
+        "residual_images_list.csv",
+        "residual_list.csv"
+      ],
+      "pickle": [
+        "best_model.pkl",
+        "label_encoder.pkl",
+        "scaler.pkl"
+      ],
+      "image": [
+        "s2_80_processed.png"
+      ]
+    }
+  },
+  "Output\\Output_CNN": {
+    "path": "D:\\Infosys_AI-Tracefinder\\Output\\Output_CNN",
+    "subfolders": [],
+    "total_files": 2,
+    "total_size_bytes": 2131548,
+    "by_type_count": {
+      "model": 1,
+      "npy": 1
+    },
+    "by_type_size_bytes": {
+      "model": 2131364,
+      "npy": 184
+    },
+    "sample_files": {
+      "model": [
+        "best_small_model.keras"
+      ],
+      "npy": [
+        "history_loss.npy"
+      ]
+    }
+  }
+}
