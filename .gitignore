@@ -50,12 +50,8 @@ coverage.xml
 
 # Data and large artifacts (not required in repo)
 /Data/
-/Output/
-/Notebooks/
-/backend/models/
-Notebooks/
-Data/
-Output/
+
+
 
 # Model files
 *.h5
