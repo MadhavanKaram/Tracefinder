@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python
 # coding: utf-8
 
@@ -507,4 +508,7 @@ if __name__ == "__main__":
     path = r"D:\Infosys_AI-Tracefinder\Data\Wikipedia\Canon120-1\150\s1_1.tif"
     out = predict_single_image(path, model_choice="all", verbose=True)
     print("\nRETURNED:\n", out)
+
+#!/usr/bin/env python
+# coding: utf-8
 

@@ -1,3 +1,4 @@
+
 # backend/inference/features.py
 import os
 import cv2
@@ -100,3 +101,5 @@ def make_residual_image(image_path, target_size=IMG_TARGET):
     res = res / m
     res = np.expand_dims(res, axis=(0, -1))  # (1, H, W, 1)
     return res
+
+# backend/inference/features.py

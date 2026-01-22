@@ -1,3 +1,4 @@
+
 # backend/inference/models.py
 import os
 import pickle
@@ -330,3 +331,5 @@ if __name__ == "__main__":
         print(predict_single_image(sample, verbose=True))
     else:
         print("No test_sample.tif found. Call predict_single_image(image_path) from your script.")
+
+# backend/inference/models.py

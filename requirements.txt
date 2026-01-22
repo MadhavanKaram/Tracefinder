@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fastapi
 uvicorn[standard]
 numpy>=1.23

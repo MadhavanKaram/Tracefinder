@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Trace Finder (Image Residuals Detector)
 
 Trace Finder is an experimental project for scanner-source identification and image residual analysis. It provides a FastAPI backend for inference, helper scripts and notebooks for training/analysis, and a small React + Vite frontend for demonstrations.

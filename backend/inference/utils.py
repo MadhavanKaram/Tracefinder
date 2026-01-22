@@ -46,3 +46,4 @@ def safe_scale_and_pad(feat_vector, scaler=None, meta=None):
         arr = padded
     # now transform
     return scaler.transform(arr)
+
